@@ -49,19 +49,32 @@ recipebook/
 ├── js/
 │   └── script.js              # Client-side recipe metadata array and search/filter rendering logic
 ├── images/
+│   ├── aloo-masala.png        # Recipe image asset
 │   ├── biryani.jpg            # Recipe image asset
 │   ├── carrot-curry.png       # Recipe image asset
 │   ├── chicken-masala.png     # Recipe image asset
+│   ├── ghee-chicken-rice.jpg  # Image asset for One-Pot Ghee Chicken Rice
+│   ├── hariyali-soya-rice.jpg # Image asset for Hariyali Soya Rice
+│   ├── omelette-curry.jpg     # Image asset for 5-Minute Omelette Curry
+│   ├── palakura-pappu.png     # Recipe image asset
 │   ├── pancakes.jpg           # Recipe image asset
 │   ├── pasta.jpg              # Recipe image asset
-│   ├── south-indian-sambar.png# New image asset for South Indian Sambar (Serves 4)
-│   ├── sambar-serves-2-3.png  # New image asset for Sambar (Serves 2-3)
-│   └── tomato-curry.png       # New image asset for Tomato Curry
+│   ├── sambar-serves-2-3.png  # Image asset for Sambar (Serves 2-3)
+│   ├── south-indian-sambar.png# Image asset for South Indian Sambar (Serves 4)
+│   ├── tandoori-chicken-rice.jpg # Image asset for One-Pot Tandoori Chicken Rice
+│   └── tomato-curry.png       # Image asset for Tomato Curry
 └── recipes/
-    ├── chicken_masala.html    # Chicken Masala detail page
+    ├── aloo_masala_curry.html # Aloo Masala Curry detail page
     ├── carrot_coconut_curry.html # Carrot Coconut Curry detail page
-    ├── south_indian_sambar.html  # South Indian Sambar (Serves 4) detail page
+    ├── chicken_masala.html    # Chicken Masala detail page
+    ├── five_minute_omelette_curry.html # 5-Minute Omelette Curry detail page
+    ├── hariyali_soya_rice.html# Hariyali Soya Rice detail page
+    ├── one_pot_ghee_chicken_rice.html # One-Pot Ghee Chicken Rice detail page
+    ├── one_pot_tandoori_chicken_rice.html # One-Pot Tandoori Chicken Rice detail page
+    ├── palakura_pappu_ground_spice.html # Palakura Pappu detail page
     ├── sambar_serves_2_3.html # Sambar Recipe (Serves 2-3) detail page
+    ├── simple_andhra_palakura_pappu.html # Simple Andhra Palakura Pappu detail page
+    ├── south_indian_sambar.html  # South Indian Sambar (Serves 4) detail page
     └── tomato_curry.html      # Tomato Curry detail page
 ```
 
@@ -111,3 +124,39 @@ The visual identity of the website is built upon modern UI patterns:
 * **Category**: South Indian
 * **Prep Time**: 10 mins | **Cook Time**: 15 mins
 * **Description**: A tangy, spicy curry made of cooked, lightly mashed tomatoes simmered with green chillies, garlic, spices, and a light touch of tamarind. Excellent accompaniment for idli, dosa, and rice.
+
+### 6. Palakura Pappu (With Ground Spice Paste)
+* **Category**: South Indian
+* **Prep Time**: 15 mins | **Cook Time**: 25 mins
+* **Description**: Authentic Andhra spinach dal made with fresh ground masala paste, garlic, and tamarind.
+
+### 7. Simple Andhra Palakura Pappu
+* **Category**: South Indian
+* **Prep Time**: 10 mins | **Cook Time**: 20 mins
+* **Description**: Comforting homestyle spinach and toor dal tempered with mustard seeds, cumin, garlic, and curry leaves.
+
+### 8. Aloo Masala Curry (Creamy Tomato Gravy)
+* **Category**: Curries
+* **Prep Time**: 15 mins | **Cook Time**: 30 mins
+* **Description**: A rich, velvety potato curry in a spiced tomato-cashew-poppy seed gravy.
+
+### 9. 5-Minute Omelette Curry
+* **Category**: Curries
+* **Prep Time**: 2 mins | **Cook Time**: 3 mins
+* **Description**: A rapid and aromatic egg curry made by cooking beaten spiced eggs over a sizzling tomato-garlic masala bed. Recipe by @joee_cooks.
+
+### 10. Hariyali Soya Rice
+* **Category**: High Protein
+* **Prep Time**: 10 mins | **Cook Time**: 25 mins
+* **Description**: Fragrant basmati rice infused with a vibrant herb-spice paste (mint, coriander, fennel, cardamom) and protein-packed soya chunks. Recipe by @joee_cooks.
+
+### 11. One-Pot Ghee Chicken Rice
+* **Category**: High Protein
+* **Prep Time**: 15 mins | **Cook Time**: 20 mins
+* **Description**: A fragrant yakhni pulao and biryani hybrid cooked with aromatic ghee, whole spices, juicy chicken thighs, and basmati rice.
+
+### 12. One-Pot Tandoori Chicken Rice
+* **Category**: High Protein
+* **Prep Time**: 15 mins | **Cook Time**: 25 mins
+* **Description**: Succulent marinated tandoori chicken cooked together over whole spice roasted basmati rice. Recipe by @withanushkarawat.
+

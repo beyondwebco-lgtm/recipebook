@@ -78,6 +78,46 @@ const recipes = [
     cookTime: "30 mins",
     link: "recipes/aloo_masala_curry.html",
     ingredients: ["potatoes", "tomatoes", "coconut powder", "cashews", "poppy seeds", "gasagasalu", "oil", "cumin seeds", "jeera", "cinnamon stick", "cloves", "cardamom", "onion", "green chilies", "turmeric", "red chili powder", "roasted cumin powder", "salt", "kasuri methi"]
+  },
+  {
+    id: 9,
+    title: "5-Minute Omelette Curry",
+    category: "Curries",
+    image: "images/omelette-curry.jpg",
+    prepTime: "2 mins",
+    cookTime: "3 mins",
+    link: "recipes/five_minute_omelette_curry.html",
+    ingredients: ["eggs", "onion", "green chilli", "turmeric", "pepper", "salt", "oil", "cumin seeds", "curry leaves", "garlic", "kashmiri red chilli powder", "coriander powder", "garam masala"]
+  },
+  {
+    id: 10,
+    title: "Hariyali Soya Rice",
+    category: "High Protein",
+    image: "images/hariyali-soya-rice.jpg",
+    prepTime: "10 mins",
+    cookTime: "25 mins",
+    link: "recipes/hariyali_soya_rice.html",
+    ingredients: ["soya chunks", "basmati rice", "coriander", "mint", "ginger", "garlic", "green chilli", "cloves", "cinnamon", "cardamom", "cumin seeds", "fennel seeds", "onion", "garam masala", "oil", "salt"]
+  },
+  {
+    id: 11,
+    title: "One-Pot Ghee Chicken Rice",
+    category: "High Protein",
+    image: "images/ghee-chicken-rice.jpg",
+    prepTime: "15 mins",
+    cookTime: "20 mins",
+    link: "recipes/one_pot_ghee_chicken_rice.html",
+    ingredients: ["chicken thighs", "ghee", "cumin seeds", "cardamom", "cloves", "peppercorns", "onion", "garlic", "chillies", "biryani masala", "rice", "coriander", "lemon", "salt"]
+  },
+  {
+    id: 12,
+    title: "One-Pot Tandoori Chicken Rice",
+    category: "High Protein",
+    image: "images/tandoori-chicken-rice.jpg",
+    prepTime: "15 mins",
+    cookTime: "25 mins",
+    link: "recipes/one_pot_tandoori_chicken_rice.html",
+    ingredients: ["chicken thighs", "yogurt", "ginger-garlic paste", "turmeric", "coriander powder", "garam masala", "red chilli powder", "coriander", "green chillies", "lime", "lemon juice", "ghee", "butter", "peppercorns", "cinnamon", "cloves", "cardamom", "dried red chilli", "rice", "salt"]
   }
 ];
 
