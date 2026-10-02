@@ -103,7 +103,7 @@ const recipes = [
     id: 11,
     title: "One-Pot Ghee Chicken Rice",
     category: "High Protein",
-    image: "images/ghee-chicken-rice.jpg",
+    image: "images/ghee-chicken-rice.png",
     prepTime: "15 mins",
     cookTime: "20 mins",
     link: "recipes/one_pot_ghee_chicken_rice.html",

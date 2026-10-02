@@ -53,7 +53,7 @@ recipebook/
 │   ├── biryani.jpg            # Recipe image asset
 │   ├── carrot-curry.png       # Recipe image asset
 │   ├── chicken-masala.png     # Recipe image asset
-│   ├── ghee-chicken-rice.jpg  # Image asset for One-Pot Ghee Chicken Rice
+│   ├── ghee-chicken-rice.png  # Image asset for One-Pot Ghee Chicken Rice
 │   ├── hariyali-soya-rice.jpg # Image asset for Hariyali Soya Rice
 │   ├── omelette-curry.jpg     # Image asset for 5-Minute Omelette Curry
 │   ├── palakura-pappu.png     # Recipe image asset
