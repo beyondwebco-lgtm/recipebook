@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Recipe Book</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <a href="index.html" class="logo">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path></svg>
+      Recipe Book
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="#categories">Categories</a></li>
+      <li><a href="#recipes">All Recipes</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <section class="hero">
+      <h1>What are you craving today?</h1>
+      <div class="search-container">
+        <input type="text" id="search-input" class="search-input" placeholder="Search for recipes, ingredients, or categories...">
+      </div>
+    </section>
+
+    <section id="categories" class="categories">
+      <button class="category-btn active" data-category="All">All</button>
+      <button class="category-btn" data-category="Curries">Curries</button>
+      <button class="category-btn" data-category="High Protein">High Protein</button>
+      <button class="category-btn" data-category="South Indian">South Indian</button>
+    </section>
+
+    <section id="recipes">
+      <div id="recipe-grid" class="recipe-grid">
+        <!-- Recipes will be injected here by script.js -->
+      </div>
+    </section>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
